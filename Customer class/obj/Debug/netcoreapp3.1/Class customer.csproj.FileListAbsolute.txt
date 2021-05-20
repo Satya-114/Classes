@@ -1,0 +1,3 @@
+C:\Users\Satya Maddila\source\repos\Class customer\obj\Debug\netcoreapp3.1\Class customer.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\Class customer\obj\Debug\netcoreapp3.1\Class customer.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\Class customer\obj\Debug\netcoreapp3.1\Class customer.csproj.CoreCompileInputs.cache
